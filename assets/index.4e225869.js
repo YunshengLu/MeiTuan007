@@ -1,4 +1,4 @@
-import{l as N,m as y,G as z,n as F,o as E,s as b,r as D,j as t,f as e,d as x,L as _,c as A,p as C,q as B}from"./index.5ff47b1b.js";import"./index.77b35db5.js";const G=i=>({type:y,data:i}),L=i=>({type:z,data:i}),j=i=>({type:F,data:i}),S=i=>({type:E,data:i}),O=()=>i=>{N().then(c=>{const s=G(c.data.data.food_spu_tags);i(s),i(L(!1))})},H=b.div`
+import{l as N,m as y,G as z,n as F,o as E,s as b,r as D,j as t,f as e,d as x,L as _,c as A,p as C,q as B}from"./index.9252a139.js";import"./index.80b40507.js";const G=i=>({type:y,data:i}),L=i=>({type:z,data:i}),j=i=>({type:F,data:i}),S=i=>({type:E,data:i}),O=()=>i=>{N().then(c=>{const s=G(c.data.data.food_spu_tags);i(s),i(L(!1))})},H=b.div`
     position: fixed;
     left: 0;
     right: 0;
