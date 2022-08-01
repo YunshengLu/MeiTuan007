@@ -9,7 +9,7 @@ export const getRestaurantsRequest = () =>
 // export const getHomeDetailOrderRequest  = () =>
 //     axios.get('https://www.fastmock.site/mock/fc09142a9029fcb292822d4ee872f52b/beers/dinner_order')
 export const getHomeDetailOrderRequest = () =>
-    axios.get('/src/assets/data/goods.json')
+    axios.get('https://luyunsheng.xyz/MeiTuan007/data/goods.json')
 export const getHomeDetailCommentRequest = () =>
     axios.get('https://www.fastmock.site/mock/0a7dd8897c829f1675e2e5962a305383/MeiTuan/assess')
 export const getHomeDetailSellerRequest = () =>
